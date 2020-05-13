@@ -5,6 +5,7 @@ import java.util.List;
 
 import javax.persistence.EntityManager;
 
+import models.Employee;
 import utils.DBUtil;
 
 public class EmployeeValidator {
