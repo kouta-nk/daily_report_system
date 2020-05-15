@@ -101,3 +101,7 @@ tr.row0 {
 select {
     height: 30px;
 }
+h1 {
+    font-size: 24px;
+    display: inline;
+}
